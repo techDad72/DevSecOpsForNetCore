@@ -11,7 +11,7 @@ namespace ConsoleApp
     /// <summary>
     /// Arithmetic funtions.
     /// </summary>
-    public class Arithmetic
+    public static class Arithmetic
     {
         /// <summary>
         /// Adds two numbers.
